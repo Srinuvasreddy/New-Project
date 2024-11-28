@@ -1,0 +1,7 @@
+{
+	"Application": "Snapshot API",
+	"Services": "Lambda",
+	"Experiment": "LambdaTimeout",
+	"Results": "PASS",
+	"API_URL": "https://shoppingcart-getproducts.api.sre-dev.aws.delta.com/dev/product"
+}

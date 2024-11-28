@@ -1,0 +1,7 @@
+{
+    "Application": "Test",
+    "Services": "EC2",
+    "Experiment": "EC2MemoryStress",
+    "Results": "FAIL",
+    "API_URL": "https://shoppingcart-getproducts.api.sre-dev.aws.delta.com/dev/product"
+}

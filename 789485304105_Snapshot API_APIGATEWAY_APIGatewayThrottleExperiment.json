@@ -1,0 +1,8 @@
+{
+	"Application": "Snapshot API",
+	"Services": "APIGATEWAY",
+	"Experiment": "APIGatewayThrottleExperiment",
+	"Results": "FAIl",
+	"API_URL": "https://shoppingcart-getproducts.api.sre-dev.aws.delta.com/dev/product"
+}
+	
